@@ -24,6 +24,7 @@ public class Sound
         samples[i]=limit;
         count++;
       }
+    }
   }
 
 
